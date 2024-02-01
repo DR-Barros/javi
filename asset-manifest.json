@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/javi/static/css/main.f855e6bc.css",
+    "main.js": "/javi/static/js/main.deddd806.js",
+    "static/js/787.be603720.chunk.js": "/javi/static/js/787.be603720.chunk.js",
+    "index.html": "/javi/index.html",
+    "main.f855e6bc.css.map": "/javi/static/css/main.f855e6bc.css.map",
+    "main.deddd806.js.map": "/javi/static/js/main.deddd806.js.map",
+    "787.be603720.chunk.js.map": "/javi/static/js/787.be603720.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.deddd806.js"
+  ]
+}
